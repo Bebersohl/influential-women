@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bebersohl/influential-women/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Bebersohl/influential-women/static/js/main.74e9d0e2.chunk.js",
+    "main.js.map": "/Bebersohl/influential-women/static/js/main.74e9d0e2.chunk.js.map",
+    "runtime-main.js": "/Bebersohl/influential-women/static/js/runtime-main.e2e3d33e.js",
+    "runtime-main.js.map": "/Bebersohl/influential-women/static/js/runtime-main.e2e3d33e.js.map",
+    "static/js/2.2ac9c21f.chunk.js": "/Bebersohl/influential-women/static/js/2.2ac9c21f.chunk.js",
+    "static/js/2.2ac9c21f.chunk.js.map": "/Bebersohl/influential-women/static/js/2.2ac9c21f.chunk.js.map",
+    "index.html": "/Bebersohl/influential-women/index.html",
+    "precache-manifest.2e9f2dc3d4d68d2ae2049f01d87252aa.js": "/Bebersohl/influential-women/precache-manifest.2e9f2dc3d4d68d2ae2049f01d87252aa.js",
+    "service-worker.js": "/Bebersohl/influential-women/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Bebersohl/influential-women/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2ac9c21f.chunk.js.LICENSE": "/Bebersohl/influential-women/static/js/2.2ac9c21f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Bebersohl/influential-women/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2e3d33e.js",
+    "static/js/2.2ac9c21f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.74e9d0e2.chunk.js"
+  ]
+}
