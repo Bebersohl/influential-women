@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/influential-women/static/css/main.d1b05096.chunk.css",
-    "main.js": "/influential-women/static/js/main.4ee9bacc.chunk.js",
-    "main.js.map": "/influential-women/static/js/main.4ee9bacc.chunk.js.map",
+    "main.css": "/influential-women/static/css/main.917f1b91.chunk.css",
+    "main.js": "/influential-women/static/js/main.c2622e28.chunk.js",
+    "main.js.map": "/influential-women/static/js/main.c2622e28.chunk.js.map",
     "runtime-main.js": "/influential-women/static/js/runtime-main.3f057646.js",
     "runtime-main.js.map": "/influential-women/static/js/runtime-main.3f057646.js.map",
-    "static/js/2.2ac9c21f.chunk.js": "/influential-women/static/js/2.2ac9c21f.chunk.js",
-    "static/js/2.2ac9c21f.chunk.js.map": "/influential-women/static/js/2.2ac9c21f.chunk.js.map",
+    "static/js/2.c882107e.chunk.js": "/influential-women/static/js/2.c882107e.chunk.js",
+    "static/js/2.c882107e.chunk.js.map": "/influential-women/static/js/2.c882107e.chunk.js.map",
     "index.html": "/influential-women/index.html",
-    "precache-manifest.850df424efe473c0faaaac13def963a5.js": "/influential-women/precache-manifest.850df424efe473c0faaaac13def963a5.js",
+    "precache-manifest.419213f6d365f78b5ed38f753cd96816.js": "/influential-women/precache-manifest.419213f6d365f78b5ed38f753cd96816.js",
     "service-worker.js": "/influential-women/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/influential-women/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2ac9c21f.chunk.js.LICENSE": "/influential-women/static/js/2.2ac9c21f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/influential-women/static/media/logo.5d5d9eef.svg"
+    "static/css/main.917f1b91.chunk.css.map": "/influential-women/static/css/main.917f1b91.chunk.css.map",
+    "static/js/2.c882107e.chunk.js.LICENSE": "/influential-women/static/js/2.c882107e.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.3f057646.js",
-    "static/js/2.2ac9c21f.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4ee9bacc.chunk.js"
+    "static/js/2.c882107e.chunk.js",
+    "static/css/main.917f1b91.chunk.css",
+    "static/js/main.c2622e28.chunk.js"
   ]
 }
