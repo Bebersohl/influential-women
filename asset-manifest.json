@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Bebersohl/influential-women/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Bebersohl/influential-women/static/js/main.74e9d0e2.chunk.js",
-    "main.js.map": "/Bebersohl/influential-women/static/js/main.74e9d0e2.chunk.js.map",
-    "runtime-main.js": "/Bebersohl/influential-women/static/js/runtime-main.e2e3d33e.js",
-    "runtime-main.js.map": "/Bebersohl/influential-women/static/js/runtime-main.e2e3d33e.js.map",
-    "static/js/2.2ac9c21f.chunk.js": "/Bebersohl/influential-women/static/js/2.2ac9c21f.chunk.js",
-    "static/js/2.2ac9c21f.chunk.js.map": "/Bebersohl/influential-women/static/js/2.2ac9c21f.chunk.js.map",
-    "index.html": "/Bebersohl/influential-women/index.html",
-    "precache-manifest.2e9f2dc3d4d68d2ae2049f01d87252aa.js": "/Bebersohl/influential-women/precache-manifest.2e9f2dc3d4d68d2ae2049f01d87252aa.js",
-    "service-worker.js": "/Bebersohl/influential-women/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Bebersohl/influential-women/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2ac9c21f.chunk.js.LICENSE": "/Bebersohl/influential-women/static/js/2.2ac9c21f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/Bebersohl/influential-women/static/media/logo.5d5d9eef.svg"
+    "main.css": "/influential-women/static/css/main.d1b05096.chunk.css",
+    "main.js": "/influential-women/static/js/main.4ee9bacc.chunk.js",
+    "main.js.map": "/influential-women/static/js/main.4ee9bacc.chunk.js.map",
+    "runtime-main.js": "/influential-women/static/js/runtime-main.3f057646.js",
+    "runtime-main.js.map": "/influential-women/static/js/runtime-main.3f057646.js.map",
+    "static/js/2.2ac9c21f.chunk.js": "/influential-women/static/js/2.2ac9c21f.chunk.js",
+    "static/js/2.2ac9c21f.chunk.js.map": "/influential-women/static/js/2.2ac9c21f.chunk.js.map",
+    "index.html": "/influential-women/index.html",
+    "precache-manifest.850df424efe473c0faaaac13def963a5.js": "/influential-women/precache-manifest.850df424efe473c0faaaac13def963a5.js",
+    "service-worker.js": "/influential-women/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/influential-women/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2ac9c21f.chunk.js.LICENSE": "/influential-women/static/js/2.2ac9c21f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/influential-women/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2e3d33e.js",
+    "static/js/runtime-main.3f057646.js",
     "static/js/2.2ac9c21f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.74e9d0e2.chunk.js"
+    "static/js/main.4ee9bacc.chunk.js"
   ]
 }
