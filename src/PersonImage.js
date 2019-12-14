@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import wikijs from 'wikijs';
-
-const wiki = wikijs();
+import wiki from './wiki';
 
 function PersonImage({ name }) {
   const [image, setImage] = useState('');

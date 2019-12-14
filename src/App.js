@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import wikijs from 'wikijs';
+import wiki from './wiki';
 import PersonImage from './PersonImage';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
@@ -15,8 +15,6 @@ const initialIndex = clamp(
   0,
   72
 );
-
-const wiki = wikijs();
 
 function clamp(val, min, max) {
   if (val > max) return 0;
