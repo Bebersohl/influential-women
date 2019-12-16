@@ -1,22 +1,45 @@
 {
   "files": {
     "main.css": "/influential-women/static/css/main.917f1b91.chunk.css",
-    "main.js": "/influential-women/static/js/main.ae7818d9.chunk.js",
-    "main.js.map": "/influential-women/static/js/main.ae7818d9.chunk.js.map",
+    "main.js": "/influential-women/static/js/main.677c964d.chunk.js",
+    "main.js.map": "/influential-women/static/js/main.677c964d.chunk.js.map",
     "runtime-main.js": "/influential-women/static/js/runtime-main.3f057646.js",
     "runtime-main.js.map": "/influential-women/static/js/runtime-main.3f057646.js.map",
-    "static/js/2.7dd8759a.chunk.js": "/influential-women/static/js/2.7dd8759a.chunk.js",
-    "static/js/2.7dd8759a.chunk.js.map": "/influential-women/static/js/2.7dd8759a.chunk.js.map",
+    "static/js/2.512ff266.chunk.js": "/influential-women/static/js/2.512ff266.chunk.js",
+    "static/js/2.512ff266.chunk.js.map": "/influential-women/static/js/2.512ff266.chunk.js.map",
     "index.html": "/influential-women/index.html",
-    "precache-manifest.c7aea248fdabab0b9ced6ea4b92858b1.js": "/influential-women/precache-manifest.c7aea248fdabab0b9ced6ea4b92858b1.js",
+    "precache-manifest.282d14b5b5e3784581be696ac9efb27e.js": "/influential-women/precache-manifest.282d14b5b5e3784581be696ac9efb27e.js",
     "service-worker.js": "/influential-women/service-worker.js",
     "static/css/main.917f1b91.chunk.css.map": "/influential-women/static/css/main.917f1b91.chunk.css.map",
-    "static/js/2.7dd8759a.chunk.js.LICENSE": "/influential-women/static/js/2.7dd8759a.chunk.js.LICENSE"
+    "static/js/2.512ff266.chunk.js.LICENSE": "/influential-women/static/js/2.512ff266.chunk.js.LICENSE",
+    "static/media/annette.jpg": "/influential-women/static/media/annette.61f657c9.jpg",
+    "static/media/augusta.jpg": "/influential-women/static/media/augusta.88c0a7f3.jpg",
+    "static/media/barbara.jpg": "/influential-women/static/media/barbara.a21172a8.jpg",
+    "static/media/beryl.jpg": "/influential-women/static/media/beryl.3af019e0.jpg",
+    "static/media/cassie.jpeg": "/influential-women/static/media/cassie.b7589fe5.jpeg",
+    "static/media/dominick.jpg": "/influential-women/static/media/dominick.5458c049.jpg",
+    "static/media/ida.jpg": "/influential-women/static/media/ida.260ac67a.jpg",
+    "static/media/jeanne.jpg": "/influential-women/static/media/jeanne.0df4b211.jpg",
+    "static/media/junko.jpg": "/influential-women/static/media/junko.6a6f8f07.jpg",
+    "static/media/kay.jpg": "/influential-women/static/media/kay.a1a5f467.jpg",
+    "static/media/kira.jpg": "/influential-women/static/media/kira.9b8c3f9f.jpg",
+    "static/media/kirk.jpg": "/influential-women/static/media/kirk.b245e583.jpg",
+    "static/media/krystyna.jpeg": "/influential-women/static/media/krystyna.433365cb.jpeg",
+    "static/media/marie.jpg": "/influential-women/static/media/marie.b8e5f372.jpg",
+    "static/media/mary.jpg": "/influential-women/static/media/mary.fbaf0255.jpg",
+    "static/media/meagan.jpeg": "/influential-women/static/media/meagan.302f2b63.jpeg",
+    "static/media/ness.jpg": "/influential-women/static/media/ness.2b4d52d1.jpg",
+    "static/media/octavie.jpg": "/influential-women/static/media/octavie.b8e5f372.jpg",
+    "static/media/osa.jpg": "/influential-women/static/media/osa.fcaf3729.jpg",
+    "static/media/pine.jpg": "/influential-women/static/media/pine.bddcfb36.jpg",
+    "static/media/robyn.jpg": "/influential-women/static/media/robyn.bcfaa4ac.jpg",
+    "static/media/sophia.jpg": "/influential-women/static/media/sophia.a8d27242.jpg",
+    "static/media/tania.jpg": "/influential-women/static/media/tania.eee56f75.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3f057646.js",
-    "static/js/2.7dd8759a.chunk.js",
+    "static/js/2.512ff266.chunk.js",
     "static/css/main.917f1b91.chunk.css",
-    "static/js/main.ae7818d9.chunk.js"
+    "static/js/main.677c964d.chunk.js"
   ]
 }
