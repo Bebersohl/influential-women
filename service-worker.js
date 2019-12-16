@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/influential-women/precache-manifest.282d14b5b5e3784581be696ac9efb27e.js"
+  "/influential-women/precache-manifest.391946f2ef735343fed762ee9450fec9.js"
 );
 
 self.addEventListener('message', (event) => {
