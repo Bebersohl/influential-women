@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Harriet Chalmers Adams",
+    "nationality": "American",
+    "born": "1875",
+    "died": "1937",
+    "achievement/s": "Explored and photographed South America, Asia, South Pacific"
+  },
+  {
+    "name": "Gertrude Sanford Legendre",
+    "nationality": "American",
+    "born": "1902",
+    "died": "2000",
+    "achievement/s": "American socialite who was a noted explorer and big-game hunter. She contributed rare specimens from Africa, Iran, Southeast Asia, Canada, and Alaska to natural history museums."
+  },
+  {
+    "name": "Tania Aebi",
+    "nationality": "American",
+    "born": "1966",
+    "died": "",
+    "achievement/s": "Held the record as the youngest person and first American woman to sail solo around the world (with stops and assistance)."
+  },
+  {
+    "name": "Florence Augusta Merriam Bailey",
+    "nationality": "American",
+    "born": "1863",
+    "died": "1948",
+    "achievement/s": "American ornithologist and nature writer, who conducted extensive field work in the American West"
+  },
+  {
+    "name": "Ann Bancroft",
+    "nationality": "American",
+    "born": "1955",
+    "died": "",
+    "achievement/s": "First woman to travel over the ice cap to the North and South Poles"
+  },
+  {
+    "name": "Carol Beckwith",
+    "nationality": "American",
+    "born": "1945",
+    "died": "",
+    "achievement/s": "Photographer, author, and filmmaker known for documenting the tribal cultures of Africa, most notably in partnership with Australian photographer Angela Fisher."
+  },
+  {
+    "name": "Nellie Bly",
+    "nationality": "American",
+    "born": "1864",
+    "died": "1922",
+    "achievement/s": "Pioneering journalist who travelled around the world in 72 days, the first person to do so."
+  },
+  {
+    "name": "Louise Arner Boyd",
+    "nationality": "American",
+    "born": "1887",
+    "died": "1972",
+    "achievement/s": "Explored Greenland and the Arctic"
+  },
+  {
+    "name": "Susan Butcher",
+    "nationality": "American",
+    "born": "1954",
+    "died": "2006",
+    "achievement/s": "Dog musher in Alaska"
+  },
+  {
+    "name": "Calamity Jane",
+    "nationality": "American",
+    "born": "1852",
+    "died": "1903",
+    "achievement/s": "American frontierswoman and professional scout, known for her claim of being an acquaintance of Wild Bill Hickok and for fighting Indians."
+  },
+  {
+    "name": "Aimée Crocker",
+    "nationality": "American",
+    "born": "1864",
+    "died": "1941",
+    "achievement/s": "Heiress, writer spent a decade exploring the Far East in the 1890s. Toured the interior of Java and Borneo."
+  },
+  {
+    "name": "Sophia Danenberg",
+    "nationality": "American",
+    "born": "1972",
+    "died": "",
+    "achievement/s": "First black woman to reach summit of Mount Everest"
+  },
+  {
+    "name": "Cassandra DePecol",
+    "nationality": "American",
+    "born": "1989",
+    "died": "",
+    "achievement/s": "Set the fastest time to visit all sovereign countries"
+  },
+  {
+    "name": "Nancy Bird-Walton",
+    "nationality": "Australian",
+    "born": "1915",
+    "died": "2009",
+    "achievement/s": "Australian aviation pioneer"
+  },
+  {
+    "name": "Kay Cottee",
+    "nationality": "Australian",
+    "born": "1954",
+    "died": "",
+    "achievement/s": "First woman to sail solo, non-stop around the world"
+  },
+  {
+    "name": "Robyn Davidson",
+    "nationality": "Australian",
+    "born": "1950",
+    "died": "",
+    "achievement/s": "1700 mile camel trek from Alice Springs to the west coast of Australia"
+  },
+  {
+    "name": "Berthe Cabra",
+    "nationality": "Belgian",
+    "born": "1864",
+    "died": "1947",
+    "achievement/s": "Belgian traveller, first European woman to travel across central Africa from East to West."
+  },
+  {
+    "name": "Renata Chlumska",
+    "nationality": "Czech and Swedish",
+    "born": "1973",
+    "died": "",
+    "achievement/s": "Climbed Mount Everest, kayaked and bicycled around lower 48 states of USA"
+  },
+  {
+    "name": "Isabella Bird",
+    "nationality": "English",
+    "born": "1831",
+    "died": "1904",
+    "achievement/s": "Explorer, writer and naturalist who travelled by herself through \nNorth America, Hawaii, Japan, Korea, China, Vietnam, Singapore, Malaysia, India, Persia, Kurdistan, Turkey, and Morocco."
+  },
+  {
+    "name": "Gertrude Bell",
+    "nationality": "English",
+    "born": "1868",
+    "died": "1926",
+    "achievement/s": "Explored and mapped Greater Syria, Mesopotamia, Asia Minor, Arabia"
+  },
+  {
+    "name": "Laura Bingham",
+    "nationality": "English",
+    "born": "1992",
+    "died": "",
+    "achievement/s": "Executed expedition to cross continent of South America with no money."
+  },
+  {
+    "name": "Laura Dekker",
+    "nationality": "Dutch, German, and New Zealander",
+    "born": "1995",
+    "died": "",
+    "achievement/s": "Youngest person to sail around world solo"
+  },
+  {
+    "name": "Dominick Arduin",
+    "nationality": "French",
+    "born": "1960",
+    "died": "2004",
+    "achievement/s": "Disappeared on her attempt to become the first woman to ski alone to the North Pole"
+  },
+  {
+    "name": "Jeanne Baré",
+    "nationality": "French",
+    "born": "1740",
+    "died": "1807",
+    "achievement/s": "First woman (disguised as a man) to circumnavigate the world"
+  },
+  {
+    "name": "Octavie Coudreau",
+    "nationality": "French",
+    "born": "c.1870",
+    "died": "c.1910",
+    "achievement/s": "Early explorer and geographer of the Amazon region in Brazil and French Guiana"
+  },
+  {
+    "name": "Alexandra David-Néel",
+    "nationality": "French",
+    "born": "1868",
+    "died": "1969",
+    "achievement/s": "Travelled to Tibet while closed to foreigners"
+  },
+  {
+    "name": "Jean Batten",
+    "nationality": "New Zealander",
+    "born": "1909",
+    "died": "1982",
+    "achievement/s": "First person to fly between England and New Zealand solo - broke other records"
+  },
+  {
+    "name": "Krystyna Chojnowska-Liskiewicz",
+    "nationality": "Polish",
+    "born": "1936",
+    "died": "",
+    "achievement/s": "First woman to sail solo around the world"
+  },
+  {
+    "name": "Eva Dickson",
+    "nationality": "Swedish",
+    "born": "1905",
+    "died": "1938",
+    "achievement/s": "Swedish explorer, aviator, travel writer and rally driver. The first woman to have crossed the Sahara by car."
+  },
+  {
+    "name": "Lady Hay Drummond-Hay",
+    "nationality": "English",
+    "born": "1895",
+    "died": "1946",
+    "achievement/s": "First woman to circumnavigate the world by air (by Zeppelin)"
+  },
+  {
+    "name": "Edith Durham",
+    "nationality": "English",
+    "born": "1863",
+    "died": "1944",
+    "achievement/s": "Explored Albania and the Balkans"
+  },
+  {
+    "name": "Amelia Earhart",
+    "nationality": "American",
+    "born": "1897",
+    "died": "1937",
+    "achievement/s": "First woman to fly solo across Atlantic"
+  },
+  {
+    "name": "Isabelle Eberhardt",
+    "nationality": "Swiss",
+    "born": "1877",
+    "died": "1904",
+    "achievement/s": "Swiss explorer and writer in Algeria, who converted to Islam and traveled freely dressed as a man."
+  },
+  {
+    "name": "Gertrude Ederle",
+    "nationality": "American",
+    "born": "1905",
+    "died": "2003",
+    "achievement/s": "First woman to swim English Channel"
+  },
+  {
+    "name": "Enid Gordon-Gallien",
+    "nationality": "British",
+    "born": "",
+    "died": "1931",
+    "achievement/s": "Explored and mapped Kalambo Falls"
+  },
+  {
+    "name": "Barbara Hillary",
+    "nationality": "American",
+    "born": "1931",
+    "died": "2019",
+    "achievement/s": "First African American woman to reach North Pole"
+  },
+  {
+    "name": "Amy Johnson",
+    "nationality": "English",
+    "born": "1903",
+    "died": "1941",
+    "achievement/s": "Pioneering aviator who set long-distance flying records"
+  },
+  {
+    "name": "Osa Johnson",
+    "nationality": "American",
+    "born": "1894",
+    "died": "1953",
+    "achievement/s": "Made films of and wrote books about travels in Africa, South Pacific, Borneo"
+  },
+  {
+    "name": "Mary Kingsley",
+    "nationality": "English",
+    "born": "1862",
+    "died": "1900",
+    "achievement/s": "Ethnographer and explorer of West Africa"
+  },
+  {
+    "name": "Belinda Kirk",
+    "nationality": "British",
+    "born": "1974",
+    "died": "",
+    "achievement/s": "Founder of Explorers Connect. Kirk has travelled across Africa, Nicaragua, and the Chinese Taklamakan Desert. She captained the first all-female rowing team to circumnavigate Britain non-stop."
+  },
+  {
+    "name": "Ness Knight",
+    "nationality": "South African",
+    "born": "1985",
+    "died": "",
+    "achievement/s": "Explorer and first female in history to swim the Thames River from source to London in 2013. Completed a solo traverse of remote regions of Northern Namibia in 2016."
+  },
+  {
+    "name": "Annie \"Londonderry\" Kopchovsky",
+    "nationality": "Latvian American",
+    "born": "1870",
+    "died": "1947",
+    "achievement/s": "First woman to bicycle around the world"
+  },
+  {
+    "name": "Charlotte Mansfield",
+    "nationality": "English",
+    "born": "1881",
+    "died": "1936",
+    "achievement/s": "Wrote ''Via Rhodesia'' (1911) about her travels in Southern Africa"
+  },
+  {
+    "name": "Beryl Markham",
+    "nationality": "English",
+    "born": "1902",
+    "died": "1986",
+    "achievement/s": "British-born Kenyan aviator (one of the first bush pilots), adventurer, racehorse trainer and author. She was the first woman to fly solo across the Atlantic from east to west."
+  },
+  {
+    "name": "Annette Meakin",
+    "nationality": "English",
+    "born": "1867",
+    "died": "1959",
+    "achievement/s": "First Englishwoman to cross the Trans-Siberian Railway. Wrote about this in \"The Ribbon of Iron\".Travelled in Russian Turkestan and other parts of Russia."
+  },
+  {
+    "name": "Ynes Mexia",
+    "nationality": "Mexican-American",
+    "born": "1870",
+    "died": "1938",
+    "achievement/s": "Mexican botanist and explorer who started her career at age 55. Discovered one new genus (Mexianthus) and many new species of plants."
+  },
+  {
+    "name": "Dervla Murphy",
+    "nationality": "Irish",
+    "born": "1931",
+    "died": "",
+    "achievement/s": "Irish travel writer known for cycling alone through Europe, Iran, Afghanistan, Pakistan to India"
+  },
+  {
+    "name": "Sarah Marquis",
+    "nationality": "Swiss",
+    "born": "1972",
+    "died": "",
+    "achievement/s": "From 2010 to 2013, she walked 20,000 kilometres (12,000 mi) alone from Siberia to the Gobi Desert, into China, Laos, Thailand, and then across Australia"
+  },
+  {
+    "name": "Marianne North",
+    "nationality": "English",
+    "born": "1830",
+    "died": "1890",
+    "achievement/s": "Prolific English Victorian biologist and botanical artist"
+  },
+  {
+    "name": "Ida Pfeiffer",
+    "nationality": "Austrian",
+    "born": "1797",
+    "died": "1858",
+    "achievement/s": "Travelled alone around the world in 1847, published books of her numerous travels"
+  },
+  {
+    "name": "Dorothy Pine",
+    "nationality": "American",
+    "born": "1920",
+    "died": "2011",
+    "achievement/s": "Possibly first woman to visit all 193 UN-recognised countries"
+  },
+  {
+    "name": "Anésia Pinheiro Machado",
+    "nationality": "Brazilian",
+    "born": "1904",
+    "died": "1999",
+    "achievement/s": "Second Brazilian licensed female pilot in Brazil"
+  },
+  {
+    "name": "Kate Rice",
+    "nationality": "Canadian",
+    "born": "1882",
+    "died": "1963",
+    "achievement/s": "First woman prospector in Northern Canada, writer, and trapper well known for her dog sled abilities"
+  },
+  {
+    "name": "Wanda Rutkiewicz",
+    "nationality": "Polish",
+    "born": "1943",
+    "died": "1992",
+    "achievement/s": "Polish mountain climber, the first woman to successfully summit K2"
+  },
+  {
+    "name": "Kira Salak",
+    "nationality": "American",
+    "born": "1971",
+    "died": "",
+    "achievement/s": "Travelled in Mali and Papua New Guinea"
+  },
+  {
+    "name": "Annemarie Schwarzenbach",
+    "nationality": "Swiss",
+    "born": "1908",
+    "died": "1942",
+    "achievement/s": "Journalist and photographer, travelled to Iran, Afghanistan, Africa"
+  },
+  {
+    "name": "Beryl Smeeton",
+    "nationality": "English",
+    "born": "1905",
+    "died": "1979",
+    "achievement/s": "Mountaineer, cruising sailor, overland traveller"
+  },
+  {
+    "name": "Annie Smith Peck",
+    "nationality": "American",
+    "born": "1850",
+    "died": "1935",
+    "achievement/s": "First person to climb Mount Nevado Huascarán in the Andes"
+  },
+  {
+    "name": "Hester Stanhope",
+    "nationality": "English",
+    "born": "1776",
+    "died": "1839",
+    "achievement/s": "Conducted first modern archaeology in Holy Land; travelled dressed as a man (unveiled)"
+  },
+  {
+    "name": "Freya Stark",
+    "nationality": "English and Italian\n\n(French born)",
+    "born": "1893",
+    "died": "1993",
+    "achievement/s": "Travelled within and wrote about the Middle East, including the Arabian deserts, Afghanistan"
+  },
+  {
+    "name": "Clärenore Stinnes",
+    "nationality": "German",
+    "born": "1901",
+    "died": "1990",
+    "achievement/s": "First woman to circumnavigate the world by automobile."
+  },
+  {
+    "name": "Rosie Swale-Pope",
+    "nationality": "Swiss, Irish, and British",
+    "born": "1946",
+    "died": "",
+    "achievement/s": "Has run, walked and sailed around the world"
+  },
+  {
+    "name": "Junko Tabei",
+    "nationality": "Japanese",
+    "born": "1939",
+    "died": "2016",
+    "achievement/s": "First woman to reach summit of Mount Everest"
+  },
+  {
+    "name": "Annie Edson Taylor",
+    "nationality": "American",
+    "born": "1838",
+    "died": "1921",
+    "achievement/s": "First person to survive a trip over the Niagara Falls in a barrel"
+  },
+  {
+    "name": "Gudrid Thorbjarnardóttir",
+    "nationality": "Icelandic",
+    "born": "980",
+    "died": "?",
+    "achievement/s": "With her husband, led an expedition to North America"
+  },
+  {
+    "name": "Alexandrine Tinné",
+    "nationality": "Dutch",
+    "born": "1835",
+    "died": "1869",
+    "achievement/s": "Dutch explorer in Africa and the first European woman to attempt to cross the Sahara"
+  },
+  {
+    "name": "Adeline Van Buren",
+    "nationality": "American",
+    "born": "1889",
+    "died": "1949",
+    "achievement/s": "Along with her sister Augusta Van Buren, they were the first women to ride solo motorcycles across the continental US."
+  },
+  {
+    "name": "Augusta Van Buren",
+    "nationality": "American",
+    "born": "1884",
+    "died": "1959",
+    "achievement/s": "Along with her sister Adeline Van Buren, they were the first women to ride solo motorcycles across the continental US."
+  },
+  {
+    "name": "Jessica Watson",
+    "nationality": "Australian and New Zealander",
+    "born": "1993",
+    "died": "",
+    "achievement/s": "Youngest person to sail non-stop and unassisted around the world (but did not fulfil WSSRC criteria)"
+  },
+  {
+    "name": "Meagan McGrath",
+    "nationality": "Canadian",
+    "born": "1980",
+    "died": "",
+    "achievement/s": "First Canadian (male or female) to ski unassisted to the South Pole."
+  },
+  {
+    "name": "Aloha Wanderwell",
+    "nationality": "American",
+    "born": "1906",
+    "died": "1996",
+    "achievement/s": "First woman to drive around the world"
+  },
+  {
+    "name": "Fanny Bullock Workman",
+    "nationality": "American",
+    "born": "1859",
+    "died": "1925",
+    "achievement/s": "American cartographer, explored glaciers in Himalayas"
+  }
+]

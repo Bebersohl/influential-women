@@ -1,60 +1,38 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import wiki from './wiki';
 import PersonImage from './PersonImage';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import Paper from '@material-ui/core/Paper';
 import Link from '@material-ui/core/Link';
 import ErrorBoundary from './ErrorBoundary';
-
-const listName = 'List_of_female_explorers_and_travelers';
+import explorers from './data/explorers';
 
 const initialIndex = clamp(
   Number(window.localStorage.getItem('explorerIndex' || 0)) + 1,
   0,
-  72
+  71
 );
 
 function clamp(val, min, max) {
   if (val > max) return 0;
 
-  if (val < min) return 72;
+  if (val < min) return 71;
 
   return val;
 }
 
 function App() {
-  const [explorers, setExplorers] = useState([]);
   const [explorerIndex, setExplorerIndex] = useState(initialIndex);
 
   useEffect(() => {
     window.localStorage.setItem('explorerIndex', explorerIndex);
   }, [explorerIndex]);
 
-  useEffect(() => {
-    const explorersList = localStorage.getItem(listName);
-
-    if (explorersList) return setExplorers(JSON.parse(explorersList));
-
-    wiki
-      .page(listName)
-      .then(page => page.tables())
-      .then(tables => {
-        window.localStorage.setItem(listName, JSON.stringify(tables[0]));
-        setExplorers(tables[0]);
-      })
-      .catch(err => {
-        console.log('explorer', err);
-
-      });
-  }, []);
-
-  if (!explorers.length) return <p>loading...</p>;
-
   const explorer = explorers[explorerIndex];
 
   const buttonStyle = { margin: 10}
+  
   return (
     <div className="App">
       <Paper
@@ -88,14 +66,14 @@ function App() {
           <Button
             color="primary"
             style={buttonStyle}
-            onClick={() => setExplorerIndex(clamp(explorerIndex - 1, 0, 72))}
+            onClick={() => setExplorerIndex(clamp(explorerIndex - 1, 0, 71))}
           >
             Back
           </Button>
           <Button
             color="primary"
             style={buttonStyle}
-            onClick={() => setExplorerIndex(clamp(explorerIndex + 1, 0, 72))}
+            onClick={() => setExplorerIndex(clamp(explorerIndex + 1, 0, 71))}
           >
             Next
           </Button>
